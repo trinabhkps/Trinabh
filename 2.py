@@ -2,7 +2,7 @@ import streamlit as st
 #Title of App
 st.title("My First Streamlit App")
 #Adding Text
-st.write(Hello! Creating a simple web application using streamlit library.")
+st.write("Hello! Creating a simple web application using streamlit library.")
 
 #Text input
 name = st.text_input("Enter your name:")
